@@ -1,5 +1,5 @@
 
-[View Demo Video](WebsiteStarterGenerator.mov)
+[View Demo Video](WebsiteStarterGenerator.mp4)
 
 # 🚀 Website Starter Generator
 
